@@ -36,5 +36,5 @@ The results show how accurate each model is at making predictions. For example, 
 
 ---
 
-### 5. **Comparing the Models** 🏆
+### 5. **Comparing the Models** 
 Finally, a bar chart is created to show the accuracy of all the models in one place. This makes it easy to compare them and see which one is the "best student" for this particular task. The best performing models in this project were the Decision Tree, Random Forest, and XGBoost classifiers, all with an accuracy of over 95%.
